@@ -11,4 +11,4 @@ User: Can you create a website? Assistant: Yes,
 
 Perfect use of AI
 
-Contact me tvernin49100@gmail.com [Linkedin Profile] (www.linkedin.com/in/thomas-guy-vernin-81b332174)
+Contact me tvernin49100@gmail.com [Linkedin Profile] (www.linkedin.com/in/thomasguyvernin)
