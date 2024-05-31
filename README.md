@@ -5,9 +5,8 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/thomasvernin](https://github.com/thomasvernin)
 
-- 📫 Comment me joindre **tvernin49100@gmail.com**
+- 📫 Me joindre **tvernin49100@gmail.com**
 
-- ⚡ Fun fact **Je viens du secteur de la vente de logements en tant que manager* *
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
