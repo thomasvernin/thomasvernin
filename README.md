@@ -3,6 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasvernin&label=Profile%20views&color=0e75b6&style=flat" alt="thomasvernin" /> </p>
 
+- Je développe avec la bibliothèque React, Vite et je peux créer ce que vous voulez avec cela.
+- Je commence à utiliser TailwindCSS et je pense que c'est le meilleur outil pour CSS.
+- TypeScript est mon 2ème langage
+- Pour le Back end j'ai une connaissance complète de Next.JS et de nombreux outils SaaS qui vous permettent de créer ce que vous voulez.
+- Possibilité de vous creer un site
+- Utilisation parfaite de l'IA
+
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/thomasvernin](https://github.com/thomasvernin)
 
 - 📫 Me joindre **tvernin49100@gmail.com**
