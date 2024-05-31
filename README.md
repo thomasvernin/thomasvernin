@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello 👋
+I develop with React library, Vite and I can create whatever you want with that.
 
-<!--
-**thomasvernin/thomasvernin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm starting to use TailwindCSS and I think it's the best tool for CSS.
 
-Here are some ideas to get you started:
+TypeScript is my 2nd language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For the Back end I have complete knowledge of Next.JS and many SaaS tools that allow you to create what you want.
+
+User: Can you create a website? Assistant: Yes,
+
+Perfect use of AI
+
+Contact me tvernin49100@gmail.com [Linkedin Profile] (www.linkedin.com/in/thomas-guy-vernin-81b332174)
