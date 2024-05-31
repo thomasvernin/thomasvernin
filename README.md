@@ -23,7 +23,7 @@
 
 
 ____________________________
-<h3 align="left">Langages et outils déja utilisé par le passé :</h3>
+<h3 align="left">SKILLS:</h3>
 
 
 
