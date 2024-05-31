@@ -74,14 +74,12 @@
 <p align="left">
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a>
     <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-plain.svg" alt="drupal" width="40" height="40"/> </a>
-    <a href="https://joomla.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/joomla/joomla-original.svg" alt="joomla" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">No-code :</h3>
 <p align="left">
     <a href="https://www.wix.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="wix" width="40" height="40"/> </a>
     <a href="https://www.webflow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40"/> </a>
-    <a href="https://www.squarespace.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/squarespace/squarespace-icon.svg" alt="squarespace" width="40" height="40"/> </a>
 </p>
 
 
