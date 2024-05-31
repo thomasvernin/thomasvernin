@@ -21,7 +21,11 @@
 <a href="https://instagram.com/thomasvrnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomasvrnn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Langages et outils :</h3>
+
+____________________________
+<h3 align="left">Langages et outils déja utilisé par le passé :</h3>
+
+
 
 <h3 align="left">Front-end :</h3>
 <p align="left">
