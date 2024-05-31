@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je m'appelle Thomas</h1>
-<h3 align="center">Je suis un développeur Full stack passionné</h3>
+<h3 align="center">Je suis un développeur Full stack passionné, basé en France à Angers </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasvernin&label=Profile%20views&color=0e75b6&style=flat" alt="thomasvernin" /> </p>
 
@@ -9,6 +9,8 @@
 - Pour le Back end j'ai une connaissance complète de Next.JS et de nombreux outils SaaS qui vous permettent de créer ce que vous voulez.
 - Possibilité de vous creer un site
 - Utilisation parfaite de l'IA
+  
+- Diplomé de l'école Openclassrooms
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/thomasvernin](https://github.com/thomasvernin)
 
@@ -26,6 +28,7 @@ ____________________________
 <h3 align="left">SKILLS:</h3>
 
 <h3 align="left">Front-end :</h3>
+<div style="background-color: white; border-radius: 10px; padding: 10px; display: inline-block;">
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
@@ -36,7 +39,7 @@ ____________________________
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    
+</div>  
 
 <h3 align="left">Back-end :</h3>
 <p align="left">
