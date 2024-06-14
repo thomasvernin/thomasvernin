@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasvernin&label=Profile%20views&color=0e75b6&style=flat" alt="thomasvernin" /> </p>
 
-- Je développe avec la bibliothèque React, Vite, le framework Next.js et je peux créer ce que vous voulez avec cela.
-- Je commence à utiliser TailwindCSS et je pense que c'est le meilleur outil pour CSS.
-- TypeScript est mon 2ème langage
-- Pour le Back end j'ai une connaissance complète de Next.JS et de nombreux outils SaaS qui vous permettent de créer ce que vous voulez.
+
+Developer and blogger. I create many modern applications.
+I like to share my knowledge and experiences via Twitter and LinkedIn.
+
+I am open to hiring or freelance proposals. Contact me.
+
 - Possibilité de vous creer un site
+  
 - Utilisation parfaite de l'IA
   
 - Diplomé de l'école Openclassrooms
