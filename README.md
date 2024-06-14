@@ -4,19 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasvernin&label=Profile%20views&color=0e75b6&style=flat" alt="thomasvernin" /> </p>
 
 
-Developer and blogger. I create many modern applications.
-I like to share my knowledge and experiences via Twitter and LinkedIn.
+Développeur et blogueur. 
+Je crée de nombreuses applications modernes. 
+J'aime partager mes connaissances et mes expériences via Twitter et LinkedIn.
 
-I am open to hiring or freelance proposals. Contact me.
-
-- Possibilité de vous creer un site
-  
-- Utilisation parfaite de l'IA
-  
-- Diplomé de l'école Openclassrooms
+Je suis ouvert aux propositions d'embauche ou d'indépendant. Contactez moi.
+- Possibilité de vous creer un site.
+- Utilisation parfaite de l'IA.
+- Diplomé de l'école Openclassrooms.
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/thomasvernin](https://github.com/thomasvernin)
-
 - 📫 Me joindre **tvernin49100@gmail.com**
 
 
@@ -28,7 +25,7 @@ I am open to hiring or freelance proposals. Contact me.
 
 
 ____________________________
-<h3 align="left">SKILLS:</h3>
+<h3 align="left">SKILLS et TOOLS</h3>
 
 <h3 align="left">Front-end :</h3>
 <div style="background-color: white; border-radius: 10px; padding: 10px; display: inline-block;">
