@@ -23,7 +23,7 @@ I am open to job offers or freelance opportunities. Contact me.
     <a href="https://instagram.com/thomasvrnn" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomasvrnn" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/thomasvrnn" target="blank">
+    <a href="https://twitter.com/thomasvrnin" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thomasvrnn" height="30" width="40" />
     </a>
 </p>
