@@ -15,6 +15,8 @@ I am open to job offers or freelance opportunities. Contact me.
 - 👨‍💻 All my projects are available at [https://github.com/thomasvernin](https://github.com/thomasvernin)
 - 📫 Reach me at **tvernin49100@gmail.com**
 
+- https://thomasvernin.com/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/thomas guy vernin" target="blank"> 
